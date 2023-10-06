@@ -1,0 +1,31 @@
+.algum {
+    border: 2px solid red;
+    width: 140px;
+    height: 100px;
+    margin: 75px;
+    padding: 95px;
+}
+
+.paragrafo {
+    border: 3px solid rgb(41, 23, 23);
+    width: 140px;
+    height: 80px;
+    margin: 75px;
+    padding: 95px;
+}
+
+.outro {
+    border: 2px solid rgb(174, 255, 0);
+    width: 160px;
+    height: 90px;
+    margin: 75px;
+    padding: 85px;
+}
+
+.ultimo {
+    border: 1px solid rgb(30, 129, 190);
+    width: 140px;
+    height: 100px;
+    margin: 75px;
+    padding: 80px;
+}
